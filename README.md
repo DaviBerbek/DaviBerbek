@@ -1,16 +1,33 @@
-## Hi there 👋
+# Berbek
 
-<!--
-**DaviBerbek/DaviBerbek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at PUC-PR focused on learning programming and building projects step by step.
 
-Here are some ideas to get you started:
+## About Me
+- 🎓 Computer Science student
+- 💻 Currently learning software development
+- 🌐 Studying HTML, CSS, Python and Processing
+- 🚀 Always improving and exploring new technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![Processing](https://img.shields.io/badge/Processing-black?style=for-the-badge&logo=processingfoundation)
+![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=windows)
+
+## Currently Learning
+- Data structures
+- Programming logic
+- Web development
+- Computer Science fundamentals
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=transparent)
+
+## Connect With Me
+- Discord: `yourdiscord`
+- LinkedIn: your-linkedin
+- Instagram: your-instagram
