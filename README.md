@@ -27,5 +27,5 @@ Computer Science student at PUC-PR focused on learning programming and building 
 
 ## Connect With Me
 - Discord: nandres_
-- LinkedIn: www.linkedin.com/in/davi-berbek-009680409
+- LinkedIn: https://www.linkedin.com/in/davi-berbek/
 - Instagram: https://www.instagram.com/davi_berbek/
